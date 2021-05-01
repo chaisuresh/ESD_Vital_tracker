@@ -1,0 +1,4 @@
+heart_oxy_module.c:59:6:Heart_Power_On	8	static
+heart_oxy_module.c:96:6:Heart_Init	16	static
+heart_oxy_module.c:183:6:Heart_Read_Samples	16	static
+heart_oxy_module.c:209:6:callibrate_heart_oxy_values	88	static

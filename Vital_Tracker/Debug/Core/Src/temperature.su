@@ -1,0 +1,2 @@
+temperature.c:36:6:read_temperature	8	static
+temperature.c:68:6:callibrate_temperature_value	104	static
